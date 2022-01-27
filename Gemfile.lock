@@ -441,7 +441,7 @@ GEM
     serverengine (2.0.7)
       sigdump (~> 0.2.2)
     set (1.0.1)
-    sidekiq (6.2.1)
+    sidekiq (6.4.0)
       connection_pool (>= 2.2.2)
       rack (~> 2.0)
       redis (>= 4.2.0)
